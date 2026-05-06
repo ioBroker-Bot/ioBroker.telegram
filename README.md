@@ -59,6 +59,8 @@ Use telegram service to communicate with ioBroker
 ### 3.8.0 (2024-07-14)
 * (bluefox) Migrated GUI for Admin 7
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 The MIT License (MIT)
