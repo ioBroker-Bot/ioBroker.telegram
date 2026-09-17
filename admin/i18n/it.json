@@ -101,7 +101,7 @@
     "telegram adapter settings": "impostazioni dell'adattatore telegramma",
     "text2command instance": "Istanza Text2Command",
     "token": "Token",
-    "type": "Genere",
+    "type": "Tipo",
     "url": "URL",
     "url_help": "come \"https://mydomain.noip.com:8443\"",
     "value as boolean": "valore come booleano",
